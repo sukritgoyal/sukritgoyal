@@ -57,7 +57,6 @@ End-to-End CV Pipelines • Human-in-the-Loop Workflows • Multi-step Agentic S
 
 **Repositories**  
 - [sackeye-frontend](https://github.com/sukritgoyal/sackeye-frontend)  
-- [sackeye-backend](https://github.com/sukritgoyal/sackeye-backend)
 
 ---
 
